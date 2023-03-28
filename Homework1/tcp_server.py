@@ -1,3 +1,4 @@
+#pylint: disable=invalid-name,global-at-module-level,global-statement,global-variable-not-assigned
 import socket
 import sys
 from threading import Thread, Lock
